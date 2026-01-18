@@ -2,8 +2,6 @@
 **Powered by CrewAI + OpenAI**
 
 
-🌐 **[View Live Application](https://crewai-retro-writer.vercel.app/)**
-
 > **Transform sprint chaos into actionable insights. Connect your Jira or Linear workspace, and let 6 AI agents generate a facilitator-ready retrospective in seconds.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -228,7 +226,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **⭐ Star this repo if you find it useful!**
 
-[Live Demo](https://crewai-retro-writer.vercel.app/) 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
 </div>
